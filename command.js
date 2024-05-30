@@ -5,5 +5,5 @@
   "Vegax": "true",
   "Codex": "true",
   "Hydrogen": "true",
-  "Adlinks": "true",
+  "Adlinks": "true"
 }
