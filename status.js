@@ -1,4 +1,5 @@
 {
+  "status": "success",
   "Adlinks":":green_square:",
   "Codex":":yellow_square:",
   "Delta":":green_square:",
@@ -7,5 +8,5 @@
   "Trigon":":green_square:",
   "Vegax":":green_square:",
   "HohoHub":":red_square:",
-  "ArceusX":":red_square:",
+  "ArceusX":":red_square:"
 }
