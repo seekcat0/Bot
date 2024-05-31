@@ -1,6 +1,6 @@
 {
   "Fluxus": "true",
-  "Trigon": "true",
+  "Trigon": "false",
   "Delta": "true",
   "Vegax": "true",
   "Codex": "true",
