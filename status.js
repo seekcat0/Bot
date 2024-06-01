@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "Adlinks":":green_square:",
+  "Adlinks":":red_square:",
   "Codex":":yellow_square:",
   "Delta":":green_square:",
   "Fluxus":":green_square:",
