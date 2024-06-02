@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "Adlinks":":green_square:",
-  "Codex":":yellow_square:",
+  "Adlinks":":red_square:",
+  "Codex":":red_square:",
   "Delta":":green_square:",
   "Fluxus":":green_square:",
   "Hydrogen":":green_square:",
