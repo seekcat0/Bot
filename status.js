@@ -2,6 +2,7 @@
   "status": "success",
   "Adlinks":":red_square:",
   "Codex":":red_square:",
+  "BananaHub":":green_square:",
   "Delta":":green_square:",
   "Fluxus":":green_square:",
   "Hydrogen":":green_square:",
